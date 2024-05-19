@@ -6,7 +6,7 @@
 
 Hi! My name is [Shakher Ahmmed](bdsaiket.github.io). Thank You for taking the time to view my GitHub Profile :smile:
 
-- 🔭 I’m currently working on **[Xirosoft](https://xirosoft.com)**
+- 🔭 Previous working at **[Xirosoft](https://xirosoft.com)**
 - 🌱 I’m currently learning <kbd>Frontend Development</kbd>
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 💬 Ask me about **JavaScript, PHP**
